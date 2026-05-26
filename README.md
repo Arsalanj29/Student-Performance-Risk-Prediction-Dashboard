@@ -11,8 +11,7 @@
 
 ## 🌐 Live Demo
 
-> **➡️ [https://your-app-name.streamlit.app](https://your-app-name.streamlit.app)**  
-> *(Replace with your Streamlit Cloud URL after deployment)*
+View: https://student-performance-risk-prediction-dashboard-ddwgejacjypcbnay.streamlit.app/
 
 ---
 
